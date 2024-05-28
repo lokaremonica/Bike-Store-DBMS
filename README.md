@@ -24,3 +24,48 @@ Customers engaging with the Bike Store Operational Database can seamlessly regis
 
 # Analytical Module
 Within the Bike Store Analytical Database module, our focus revolves around leveraging the wealth of data accumulated from our operational database alongside external sources. This comprehensive analysis yields an insightful dashboard that delves into the intricacies of sales and operational performance. The dashboard provides a panoramic view of the store's landscape, encompassing diverse metrics such as sales performance, employee efficiency, and regional product dynamics. The dashboard facilitates an in-depth analysis of order-related metrics, including order counts by status, the year-wise spike of bike quantities by category, and overall order trends by year and month. For a regional perspective, users can assess total orders by region, identifying patterns and optimizing strategies based on regional demand.
+
+# File Details
+
+
+.ui file - Qt5 UI File 
+.py file - Python 
+.ipynb file - Python Jupyter Notebook 
+.qrc file - Resource File Config  
+.ini file - Python Config File 
+.sql file - SQL Dump 
+
+Following is the list of the files for this application.
+1     BikeStoreCustMainDialog.py           Customer Portal Dialog
+2     BikeStoreCustMainDialog.ui           Customer Portal Dialog
+3     BikeStoreCustMainDialog_ui.py        Customer Portal Dialog
+4     BikeStoreEmplMainDialog.py           Employee Portal Dialog
+5     BikeStoreEmplMainDialog.ui           Employee Portal Dialog
+6     BikeStoreEmplMainDialog_ui.py        Employee Portal Dialog
+7     BikeStoreMainWin.py                  Main Window (Login Page)
+8     BikeStoreMainWin.ui                  Main Window (Login Page)
+9     BikeStoreMainWin_ui.py               Main Window (Login Page)
+10    BikeStoreManagerDashDialog.py        Manager Dashboard Dialog
+11    BikeStoreManagerDashDialog.ui        Manager Dashboard Dialog
+12    BikeStoreManagerDashDialog_ui.py     Manager Dashboard Dialog
+13    BikeStoreManagerMainDialog.py        Manager Portal Dialog
+14    BikeStoreManagerMainDialog.ui        Manager Portal Dialog
+15    BikeStoreManagerMainDialog_ui.py     Manager Portal Dialog
+16    BikeStoreResetPwdDialog.py           Reset Password Dialog
+17    BikeStoreResetPwdDialog.ui           Reset Password Dialog
+18    BikeStoreResetPwdDialog_ui.py        Reset Password Dialog
+19    BikeStoreSignUpDialog.py             Sign Up Dialog
+20    BikeStoreSignUpDialog.ui             Sign Up Dialog
+21    BikeStoreSignUpDialog_ui.py          Sign Up Dialog
+22    BikeStoreUtils.py                    Utility File used in Application
+23    TerraBikes.ipynb                     Notebook used to Launch the Application
+24    resources.qrc                        QT Resources File
+25    resources_rc.py                      QT Resources Python File
+26    terrabikes.ini                       Database Config File (Operational)
+27    terrabikes_bi.ini                    Database Config File (Analytical)
+28    TerraBikes.py                        Alternate way to Launch
+29    terrabikes.sql                       Operational DB Dump
+30    terrabikes_bi.sql                    Analytical DB Dump
+ 
+
+  
