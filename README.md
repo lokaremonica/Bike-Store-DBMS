@@ -7,16 +7,17 @@ On the other hand, our analytical database plays a pivotal role in unraveling th
 In essence, the Bike Store Management System is a sophisticated tandem of operational efficiency and analytical prowess, designed to elevate the management and performance evaluation processes within the dynamic realm of bicycle retail.
 # 2. Data Sources:
 - Mockaroo: https://www.mockaroo.com https://simplemaps.com/data/us-cities 
-- US Cities Name Kaggle: https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample- database
+- US Cities Name Kaggle: https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database
 3. Application Design
-The tools used during development includes Python, MySQL Workbench, PyQt Designer, ERD Plus and VSCode. It requires additional packages to be installed:
-• Pandas
-• Numpy
-• Matplotlib
-• PyQt5 and PyQt5-Tools
-• Seaborn
-• MySQL Connector for Python
-• SMTPLIB
+  
+The tools used during development includes Python, MySQL Workbench, PyQt Designer, ERD Plus and VSCode. It requires additional packages to be installed: <br>
+• Pandas <br>
+• Numpy <br>
+• Matplotlib <br>
+• PyQt5 and PyQt5-Tools <br>
+• Seaborn <br>
+• MySQL Connector for Python <br>
+• SMTPLIB <br>
 The application consists of two main modules: Operation Module and Analytical Module.
 
 # Operation Module
@@ -28,44 +29,44 @@ Within the Bike Store Analytical Database module, our focus revolves around leve
 # File Details
 
 
-.ui file - Qt5 UI File 
-.py file - Python 
-.ipynb file - Python Jupyter Notebook 
-.qrc file - Resource File Config  
-.ini file - Python Config File 
-.sql file - SQL Dump 
+.ui file - Qt5 UI File <br>
+.py file - Python <br>
+.ipynb file - Python Jupyter Notebook <br>
+.qrc file - Resource File Config <br>
+.ini file - Python Config File <br>
+.sql file - SQL Dump <br>
 
-Following is the list of the files for this application.
-1     BikeStoreCustMainDialog.py           Customer Portal Dialog
-2     BikeStoreCustMainDialog.ui           Customer Portal Dialog
-3     BikeStoreCustMainDialog_ui.py        Customer Portal Dialog
-4     BikeStoreEmplMainDialog.py           Employee Portal Dialog
-5     BikeStoreEmplMainDialog.ui           Employee Portal Dialog
-6     BikeStoreEmplMainDialog_ui.py        Employee Portal Dialog
-7     BikeStoreMainWin.py                  Main Window (Login Page)
-8     BikeStoreMainWin.ui                  Main Window (Login Page)
-9     BikeStoreMainWin_ui.py               Main Window (Login Page)
-10    BikeStoreManagerDashDialog.py        Manager Dashboard Dialog
-11    BikeStoreManagerDashDialog.ui        Manager Dashboard Dialog
-12    BikeStoreManagerDashDialog_ui.py     Manager Dashboard Dialog
-13    BikeStoreManagerMainDialog.py        Manager Portal Dialog
-14    BikeStoreManagerMainDialog.ui        Manager Portal Dialog
-15    BikeStoreManagerMainDialog_ui.py     Manager Portal Dialog
-16    BikeStoreResetPwdDialog.py           Reset Password Dialog
-17    BikeStoreResetPwdDialog.ui           Reset Password Dialog
-18    BikeStoreResetPwdDialog_ui.py        Reset Password Dialog
-19    BikeStoreSignUpDialog.py             Sign Up Dialog
-20    BikeStoreSignUpDialog.ui             Sign Up Dialog
-21    BikeStoreSignUpDialog_ui.py          Sign Up Dialog
-22    BikeStoreUtils.py                    Utility File used in Application
-23    TerraBikes.ipynb                     Notebook used to Launch the Application
-24    resources.qrc                        QT Resources File
-25    resources_rc.py                      QT Resources Python File
-26    terrabikes.ini                       Database Config File (Operational)
-27    terrabikes_bi.ini                    Database Config File (Analytical)
-28    TerraBikes.py                        Alternate way to Launch
-29    terrabikes.sql                       Operational DB Dump
-30    terrabikes_bi.sql                    Analytical DB Dump
+Following is the list of the files for this application. <br>
+1     BikeStoreCustMainDialog.py           Customer Portal Dialog <br>
+2     BikeStoreCustMainDialog.ui           Customer Portal Dialog <br>
+3     BikeStoreCustMainDialog_ui.py        Customer Portal Dialog <br>
+4     BikeStoreEmplMainDialog.py           Employee Portal Dialog <br>
+5     BikeStoreEmplMainDialog.ui           Employee Portal Dialog <br>
+6     BikeStoreEmplMainDialog_ui.py        Employee Portal Dialog <br>
+7     BikeStoreMainWin.py                  Main Window (Login Page) <br>
+8     BikeStoreMainWin.ui                  Main Window (Login Page) <br>
+9     BikeStoreMainWin_ui.py               Main Window (Login Page) <br>
+10    BikeStoreManagerDashDialog.py        Manager Dashboard Dialog <br>
+11    BikeStoreManagerDashDialog.ui        Manager Dashboard Dialog <br>
+12    BikeStoreManagerDashDialog_ui.py     Manager Dashboard Dialog <br>
+13    BikeStoreManagerMainDialog.py        Manager Portal Dialog <br>
+14    BikeStoreManagerMainDialog.ui        Manager Portal Dialog <br>
+15    BikeStoreManagerMainDialog_ui.py     Manager Portal Dialog <br>
+16    BikeStoreResetPwdDialog.py           Reset Password Dialog <br>
+17    BikeStoreResetPwdDialog.ui           Reset Password Dialog <br>
+18    BikeStoreResetPwdDialog_ui.py        Reset Password Dialog <br>
+19    BikeStoreSignUpDialog.py             Sign Up Dialog <br>
+20    BikeStoreSignUpDialog.ui             Sign Up Dialog <br>
+21    BikeStoreSignUpDialog_ui.py          Sign Up Dialog <br>
+22    BikeStoreUtils.py                    Utility File used in Application <br>
+23    TerraBikes.ipynb                     Notebook used to Launch the Application <br>
+24    resources.qrc                        QT Resources File <br>
+25    resources_rc.py                      QT Resources Python File <br>
+26    terrabikes.ini                       Database Config File (Operational) <br>
+27    terrabikes_bi.ini                    Database Config File (Analytical) <br>
+28    TerraBikes.py                        Alternate way to Launch <br>
+29    terrabikes.sql                       Operational DB Dump <br>
+30    terrabikes_bi.sql                    Analytical DB Dump <br>
  
 
   
