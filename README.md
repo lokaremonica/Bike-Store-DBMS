@@ -6,8 +6,8 @@ The operational database serves as the backbone of the system, dedicated to reco
 On the other hand, our analytical database plays a pivotal role in unraveling the broader narrative of the business. By harnessing the power of historical sales data, this component of the system enables stakeholders, particularly managers, to gain profound insights into sales trends over the years and across different store locations. The analytical database becomes a strategic tool for decision-making, providing a platform for managers to assess employee performance, identify top-selling products, and formulate informed strategies for business growth.
 In essence, the Bike Store Management System is a sophisticated tandem of operational efficiency and analytical prowess, designed to elevate the management and performance evaluation processes within the dynamic realm of bicycle retail.
 # 2. Data Sources:
-- Mockaroo
-- US Cities Name Kaggle: https://www.mockaroo.com https://simplemaps.com/data/us-cities https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample- database
+- Mockaroo: https://www.mockaroo.com https://simplemaps.com/data/us-cities 
+- US Cities Name Kaggle: https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample- database
 3. Application Design
 The tools used during development includes Python, MySQL Workbench, PyQt Designer, ERD Plus and VSCode. It requires additional packages to be installed:
 • Pandas
@@ -18,3 +18,9 @@ The tools used during development includes Python, MySQL Workbench, PyQt Designe
 • MySQL Connector for Python
 • SMTPLIB
 The application consists of two main modules: Operation Module and Analytical Module.
+
+# Operation Module
+Customers engaging with the Bike Store Operational Database can seamlessly register, log in, and initiate various transactions to enhance their shopping experience. Within this segment of the system, customers have the capability to place new orders, submit feedback, and raise any concerns through a streamlined complaints process. The Bike Store Operational Database stands as a user-centric hub, where customers, employees, and managers converge to optimize the entire spectrum of operations, from order placement to resolution management and strategic decision-making.
+
+# Analytical Module:
+Within the Bike Store Analytical Database module, our focus revolves around leveraging the wealth of data accumulated from our operational database alongside external sources. This comprehensive analysis yields an insightful dashboard that delves into the intricacies of sales and operational performance. The dashboard provides a panoramic view of the store's landscape, encompassing diverse metrics such as sales performance, employee efficiency, and regional product dynamics. The dashboard facilitates an in-depth analysis of order-related metrics, including order counts by status, the year-wise spike of bike quantities by category, and overall order trends by year and month. For a regional perspective, users can assess total orders by region, identifying patterns and optimizing strategies based on regional demand.
