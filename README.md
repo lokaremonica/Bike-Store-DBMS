@@ -36,7 +36,7 @@ Within the Bike Store Analytical Database module, our focus revolves around leve
 .ini file - Python Config File <br>
 .sql file - SQL Dump <br>
 
-Following is the list of the files for this application. <br>
+Following is the list of the files for this application. <br> <pre> 
 1     BikeStoreCustMainDialog.py           Customer Portal Dialog <br>
 2     BikeStoreCustMainDialog.ui           Customer Portal Dialog <br>
 3     BikeStoreCustMainDialog_ui.py        Customer Portal Dialog <br>
